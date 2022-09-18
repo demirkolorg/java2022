@@ -57,7 +57,6 @@ public class Main {
 		//array
 		String[] krediler= {"İhtiyaç","Taşıt","Konut"};
 		
-		//foreach		
 		for (String kredi : krediler) {
 			System.out.println("kredi: "+kredi);
 		}

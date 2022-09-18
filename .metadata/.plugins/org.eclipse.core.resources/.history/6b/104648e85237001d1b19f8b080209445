@@ -57,14 +57,13 @@ public class Main {
 		//array
 		String[] krediler= {"İhtiyaç","Taşıt","Konut"};
 		
-		//foreach		
 		for (String kredi : krediler) {
 			System.out.println("kredi: "+kredi);
 		}
 		
 		//for
 		for (int i= 0; i<krediler.length; i++) {
-			System.out.println(i+1+". kredi: "+krediler[i]);
+			System.out.println(i+1+". kredi: "+i);
 			
 		}
 
