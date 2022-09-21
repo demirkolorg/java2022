@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+D:\YAZILIM\JAVA\java2022\.metadata\.plugins\org.eclipse.jdt.core
-1509799344.index
-4224978636.index
-1865797976.index
