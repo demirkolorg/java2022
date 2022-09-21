@@ -1,4 +1,4 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Product"><rhs name\="Product"/></lhs><lhs name\="_02_oop1.Product"><rhs name\="_02_oop1.Product"/></lhs><lhs name\="_02_oop1.Customer"><rhs name\="_02_oop1.IndividualCustomer"/><rhs name\="_02_oop1.CorparateCustomer"/></lhs><lhs name\="_02_oop1.IndividualCustomer"><rhs name\="_02_oop1.IndividualCustomer"/></lhs><lhs name\="_02_oop1.CorparateCustomer"><rhs name\="_02_oop1.CorparateCustomer"/></lhs></history>
 content_assist_number_of_computers=17
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
